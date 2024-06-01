@@ -10,3 +10,44 @@
 
 
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-left: 164px;
+    overflow: hidden;
+    background-color: #00215e;
+    ;
+  }
+  li a:hover {
+    background-color: #000216;
+  }
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 40px 19px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+
+  body{
+    margin:0px;
+    background-color:#ffffff
+    } 
+
+img {
+    position: absolute;
+    left: 12px;
+    ;
+
+
+
+
+}
